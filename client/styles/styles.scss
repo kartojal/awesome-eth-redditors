@@ -1,0 +1,35 @@
+@import "variables";
+
+.body{
+    font-size: 14px;
+}
+.checkbox-friend {
+    color: $grey;
+}
+.valid {
+    color: $valid-green;
+}
+.btn-add-friend {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    z-index:100;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+.valid-response {
+    font-size: 1.3em;
+    > a {
+        color:white;
+        text-decoration: underline;
+    }
+}
+
+.aw-list {
+    list-style-type: none;
+    padding-left: 4px;
+    li {
+    }
+}

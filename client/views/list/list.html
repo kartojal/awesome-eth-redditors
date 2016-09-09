@@ -1,0 +1,8 @@
+<template name="list">
+    <p>Awesome Ethereum Users</p>
+    <ul class="aw-list">
+        {{#each awesomeList}}
+            {{> element nick=nick fullname=fullname description=description friend=friend}}
+        {{/each}}
+    </ul>
+</template>
