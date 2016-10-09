@@ -30,6 +30,21 @@
 .aw-list {
     list-style-type: none;
     padding-left: 4px;
-    li {
+    flex-wrap: wrap;
+    display:flex;
+    justify-content: center;
+    > li {
+        //flex: 1 21%;
+        height: 200px;
+        width: $three-per-row;
+        margin:10px;
+        max-width: 400px;
+        text-align: center;
+        border:1px solid #e1e8ed;
+        
+        display: flex;
+        justify-content:center;
+        align-content:center;
+        flex-direction:column; /* column | row */
     }
 }

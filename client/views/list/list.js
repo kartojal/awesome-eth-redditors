@@ -1,7 +1,7 @@
 import {Template} from 'meteor/templating';
 import {ReactiveVar} from 'meteor/reactive-var';
 import {Mongo} from 'meteor/mongo';
-
+import * as AwEthRedditors from '/client/lib/app.js';
 
 Template.list.onRendered(async function() {
     let listElements, userList, jsonFile, request, totalUsers;

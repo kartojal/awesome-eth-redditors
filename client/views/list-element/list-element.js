@@ -1,7 +1,7 @@
-Template.element.onCreated(async function(){
-    this.loading = new ReactiveVar(false);
-});
+
+
 Template.element.events({
+    // TODO MODULARIZE ADD-FRIEND
     'click .add-new-friend'(event, template) {
         let nick, fullname, accessToken;
         event.preventDefault();
@@ -31,6 +31,7 @@ Template.element.events({
         });
     },
     'click .friend'(event, template) {
+        // TODO MODULARIZE DEL-FRIEND
         let nick, fullname, msg, accessToken;
         event.preventDefault();
         nick = template.data.nick;
@@ -63,7 +64,11 @@ Template.element.events({
     },
 });
 
-Template.element.helpers({
+Template.actionButtons.onCreated(async function(){
+    this.loading = new ReactiveVar(false);
+});
+
+Template.actionButtons.helpers({
     "loading" : function() {
         return Template.instance().loading.get();
     }

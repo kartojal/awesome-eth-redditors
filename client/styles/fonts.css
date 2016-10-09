@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?z8a9pn');
+  src:  url('fonts/icomoon.eot?z8a9pn#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?z8a9pn') format('truetype'),
+    url('fonts/icomoon.woff?z8a9pn') format('woff'),
+    url('fonts/icomoon.svg?z8a9pn#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-reddit-square:before {
+  content: "\e904";
+}
+.icon-reddit:before {
+  content: "\e905";
+}
+.icon-github-square:before {
+  content: "\e900";
+}
+.icon-github:before {
+  content: "\e901";
+}
+.icon-twitter-square:before {
+  content: "\e902";
+}
+.icon-twitter:before {
+  content: "\e903";
+}
