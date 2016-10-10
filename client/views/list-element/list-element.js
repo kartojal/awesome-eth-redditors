@@ -1,4 +1,6 @@
-
+Template.element.onCreated(async function(){
+    this.loading = new ReactiveVar(false);
+});
 
 Template.element.events({
     // TODO MODULARIZE ADD-FRIEND
@@ -63,6 +65,8 @@ Template.element.events({
         });
     },
 });
+
+
 
 Template.actionButtons.onCreated(async function(){
     this.loading = new ReactiveVar(false);
