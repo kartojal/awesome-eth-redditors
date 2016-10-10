@@ -1,0 +1,529 @@
+{
+  "awesome_users": [
+    {
+      "reddit_user": "vbuterin",
+      "full_name": "Vitalik Buterin",
+      "description": "Ethereum Founder",
+      "github_user": "vbuterin",
+      "twitter_user": "vitalikbuterin",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "evoorhees",
+      "full_name": "Erik Voorhes",
+      "description": "CEO of ShapeShift.io",
+      "twitter_user": "erikvoorhees"
+    },
+    {
+      "reddit_user": "andreasma",
+      "full_name": "Andreas Antonopoulus",
+      "description": "Bitcoin, security, entrepreneur, coder, hacker, pundit, humanist, pacifist. Working on crypto-currencies, wrote Mastering Bitcoin http://bitcoinbook.info ",
+      "github_user": "aantonop",
+      "twitter_user": "aantonop"
+    },
+    {
+      "reddit_user": "adiiorio",
+      "full_name": "Anthony Di lorio",
+      "description": "Ethereum, Jaxx, & Decentral Founder / VC / Tech & Innovation Junkie / Blockchain, Decentralized Tech & Fintech Consultant",
+      "github_user": "adiiorio",
+      "twitter_user": "diiorioanthony"
+    },
+    {
+      "reddit_user": "MihaiAlisie",
+      "full_name": "Mihai Alisie",
+      "description": "Co-founder @ethereumproject and @BitcoinMagazine. Focused on making the @AkashaProject dream a reality.",
+      "github_user": "mihaialisie",
+      "twitter_user": "mihaialisie",
+      "labels": "Ethereum, Dapp"
+    },
+    {
+      "reddit_user": "kcchng",
+      "full_name": "Kai Chng",
+      "description": "CEO of Digix. Singapore.",
+      "github_user": "kcchng",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "thehighfiveghost",
+      "full_name": "George Hallam",
+      "description": "External Relations at @ethereumproject.",
+      "github_user": "thehighfiveghost",
+      "twitter_user": "georgeahallam",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "Blue-Chain",
+      "full_name": "Ken Kappler ",
+      "description": "Business development at Ethcore",
+      "github_user": "kenkappler",
+      "twitter_user": "kapplerken",
+      "labels": "Ethcore"
+    },
+    {
+      "reddit_user": "avsa",
+      "full_name": "Alex Van de Sande",
+      "description": "Director Designer at Mist, Ethereum",
+      "github_user": "alexvandesande",
+      "twitter_user": "Avsa",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "DonaldMcIntyre",
+      "full_name": "Donald Mcintyre",
+      "description": "Etherplan Founder",
+      "github_user": "donaldmcintyre",
+      "twitter_user": "donaldmcintyre_",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "vladzamfir",
+      "full_name": "Vlad Zamfir",
+      "description": "Consensus Researcher: Casper and POS on Ethereum",
+      "github_user": "vladzamfir",
+      "twitter_user": "vladzamfir",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "Jmlubin",
+      "full_name": "Joseph Lubin",
+      "description": "Ethereum co-founder and Consensys Founder",
+      "github_user": "jmlubin",
+      "twitter_user": "ethereumjoseph",
+      "labels": "Consensys"
+    },
+    {
+      "reddit_user": "hexayurt",
+      "full_name": "Vinay Gupta",
+      "description": "hexayurt.capital",
+      "twitter_user": "leashless",
+      "labels": "Consensys"
+    },
+    {
+      "reddit_user": "romanmandeleil",
+      "full_name": "Roman Mandeleil",
+      "description": "Ether.camp and EthereumJ Dev",
+      "github_user": "romanman",
+      "twitter_user": "mandeleil"
+    },
+    {
+      "reddit_user": "i3nikolai",
+      "full_name": "Nikolai Mushegian",
+      "description": "Maker DAO and Nexus Dev",
+      "github_user": "nmushegian",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "coblee",
+      "full_name": "Charlie Lee",
+      "description": "Creator of Litecoin",
+      "github_user": "coblee",
+      "twitter_user": "satoshilite"
+    },
+    {
+      "reddit_user": "sir_talkalot",
+      "full_name": "Simon de la Rouviere",
+      "description": "TokenFactory. Consensys developer.",
+      "github_user": "simondlr",
+      "twitter_user": "simondlr",
+      "labels": "Consensys"
+    },
+    {
+      "reddit_user": "ethereumcharles",
+      "full_name": "Charles Hoskinson",
+      "description": "CEO of IOHK",
+      "github_user": "charleshoskinson",
+      "twitter_user": "iohk_charles"
+    },
+    {
+      "reddit_user": "gavofyork",
+      "full_name": "Gavin Wood",
+      "description": "Ethereum Founder. Ethcore.",
+      "github_user": "gavofyork",
+      "twitter_user": "gavofyork",
+      "labels": "Ethcore"
+    },
+    {
+      "reddit_user": "prestonjbyrne",
+      "full_name": "Preston J. Byrne",
+      "description": "\nCOO & General Counsel of @eris_ltd.",
+      "github_user": "prestonjbyrne",
+      "twitter_user": "prestonjbyrne"
+    },
+    {
+      "reddit_user": "joeykrug",
+      "full_name": "Joey Krug",
+      "description": "Augur Founder and Dev",
+      "github_user": "joeykrug",
+      "twitter_user": "joeykrug447",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "gustav_simonsson",
+      "full_name": "Gustav Simonsson",
+      "description": "Ethereum and String Developer.",
+      "github_user": "gustav-simonsson",
+      "twitter_user": "classygustav",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "ThomasV1",
+      "full_name": "Thomas Voegtlin",
+      "description": "Electrum Wallet Founder and Developer.",
+      "github_user": "ecdsa",
+      "twitter_user": "electrumwallet"
+    },
+    {
+      "reddit_user": "joshuad31",
+      "full_name": "Joshua Davis",
+      "description": "Dinamys App: P2P insurance company.",
+      "twitter_user": "joshuad31",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "frozeman",
+      "full_name": "Fabian Vogelsteller",
+      "description": "Mist and Web3.js Ðapp developer for the Ethereum Project and creator of the feindura - flat file based CMS. My Blog: http://frozeman.de/blog ",
+      "github_user": "frozeman",
+      "twitter_user": "feindura",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "caktux",
+      "description": "Ethereum and Etherex developer",
+      "github_user": "caktux",
+      "twitter_user": "caktux",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "Rune4444",
+      "description": "MakerDao Developer",
+      "github_user": "rune23",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "jeffehhh",
+      "full_name": "Jeffrey Wilcke",
+      "description": "Ethereum Founder, Ether hacker, Gopher & Master of Trolls",
+      "github_user": "obscuren",
+      "twitter_user": "jeffehh",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "decypha",
+      "full_name": "Viktor Trón",
+      "description": "ΞTHΞЯSPHΞЯΞ -- free code artist. blockchain, decentralisation, web3, machine learning, AI, language technology, bitcoin, p2p.",
+      "github_user": "zelig",
+      "twitter_user": "zeligf",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "socrates1024",
+      "full_name": "Andrew Miller",
+      "description": "Assistant Professor @ UIUC. Cryptocurrency, distributed systems, programming languages, and cryptography. Zcash advisor.",
+      "github_user": "amiller",
+      "twitter_user": "socrates1024",
+      "labels": "Developer"
+    },
+    {
+      "reddit_user": "taylorgerring",
+      "full_name": "Taylor Gerring",
+      "description": "A [code, systems, life] hacker making blockchains. {PGP:\u0016 0xE62C5439B8A9B74D}",
+      "github_user": "tgerring",
+      "twitter_user": "taylorgerring",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "CJentzsch",
+      "full_name": "Christoph Jentzsch",
+      "description": "Author of the TheDAO Framework and Slock founder.",
+      "github_user": "cjentzsch",
+      "twitter_user": "chrjentzsch",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "Tony_Swish",
+      "full_name": "Tony Sakich",
+      "description": "Augur Founder",
+      "twitter_user": "tonyswish",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "ryepdx",
+      "full_name": "Ryan",
+      "description": "Nexus Developer",
+      "github_user": "ryepdx",
+      "twitter_user": "ryepdx",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "kobigurk",
+      "full_name": "Kobi Gurkan",
+      "description": "War on Ether' and 'Etherlisten', based in Israel.",
+      "github_user": "kobigurk",
+      "twitter_user": "kobigurk",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "kaeptnjoda",
+      "full_name": "Jutta Steiner",
+      "description": "Busy hacking society using the global trust machine",
+      "github_user": "kaeptnjoda",
+      "twitter_user": "jutta_steiner",
+      "labels": "Ethcore"
+    },
+    {
+      "reddit_user": "ming_the_merciful",
+      "full_name": "Ming Chan",
+      "description": "Ethereum Foundation Director",
+      "github_user": "mingchan88",
+      "twitter_user": "mingchan88",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "mhswende",
+      "full_name": "Martin Holst Swende",
+      "description": "Appsec at Ethereum Foundation",
+      "github_user": "holiman",
+      "twitter_user": "mhswende",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "pipermerriam",
+      "full_name": "Piper Merriam",
+      "description": "Ethereum Developer. Devcon2 token curator. Alarm clock.",
+      "github_user": "pipermerriam",
+      "twitter_user": "pipermerriam",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "christianlundkvist",
+      "full_name": "Christian Lundkvist",
+      "description": "Blockchain nerd, Ethereal explorer, Mystic Mathematician. Part of the @consensysllc mesh. Creator and chief architect, @uport_me.",
+      "github_user": "christianlundkvist",
+      "twitter_user": "ChrisLundkvist",
+      "labels": "Consensys"
+    },
+    {
+      "reddit_user": "zooko2",
+      "full_name": "Zooko",
+      "description": "Zooko - Cryptographer"
+    },
+    {
+      "reddit_user": "Souptacular",
+      "full_name": "Hudson Jameson",
+      "description": "Ethereum Foundation: Documentation and tutorials.",
+      "github_user": "souptacular",
+      "twitter_user": "hudsonjameson",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "zooko-zcash",
+      "full_name": "Zooko Wilcox-O'Hearn",
+      "description": "Zcash Founder. ",
+      "github_user": "zooko",
+      "twitter_user": "zookozcash"
+    },
+    {
+      "reddit_user": "karalabe",
+      "full_name": "Péter Szilágyi",
+      "description": "Ethereum Developer: Go Ethereum client.",
+      "github_user": "karalabe",
+      "twitter_user": "peter_szilagyi",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "crypto-jesus",
+      "full_name": "Konstantin",
+      "description": "Ethcore",
+      "github_user": "jesuscript",
+      "twitter_user": "crypto_jesus",
+      "labels": "Ethcore"
+    },
+    {
+      "reddit_user": "bertani",
+      "full_name": "Thomas Bertani",
+      "description": "Oraclize",
+      "github_user": "bertani",
+      "twitter_user": "thomasbertani",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "aedigix",
+      "full_name": "Antonio Eufemio",
+      "description": "Pioneer Ethereum tech enthusiast. Chief Technology Officer at DigixGlobal.",
+      "github_user": "tymat",
+      "twitter_user": "tym4t",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "Felix_A",
+      "full_name": "Felix Lange",
+      "description": "Ethdev Developer",
+      "github_user": "fjl",
+      "twitter_user": "fmakunbound",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "SilentCicero",
+      "full_name": "Nick Dodson",
+      "description": "Weifund.io",
+      "github_user": "silentcicero",
+      "twitter_user": "iamnickdodson",
+      "labels": "Consensys"
+    },
+    {
+      "reddit_user": "insomniasexx",
+      "full_name": "Taylor Van Orden",
+      "description": "MyEtherWallet",
+      "github_user": "tayvano",
+      "twitter_user": "myetherwallet"
+    },
+    {
+      "reddit_user": "dm1n1c",
+      "full_name": "Dominic Williams",
+      "description": "String.technology",
+      "github_user": "dominicwilliams",
+      "twitter_user": "dominic_w"
+    },
+    {
+      "reddit_user": "nickjohnson",
+      "full_name": "Nick Johnson",
+      "description": "Ethereum Developer. Former Google Engineer.",
+      "github_user": "arachnid",
+      "twitter_user": "nicksdjohnson",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "vessenes",
+      "full_name": "Peter Vessenes",
+      "description": "Former Chairman Bitcoin Foundation Blockchain expert Technology Nerd. Smart Contract Auditor.",
+      "github_user": "vessenes",
+      "twitter_user": "vessenes"
+    },
+    {
+      "reddit_user": "koeppelmann",
+      "full_name": "Martin Köppelmann",
+      "description": "Founder of prediction market @gnosisPM",
+      "github_user": "koeppelmann",
+      "twitter_user": "koeppelmann",
+      "labels": "Consensys"
+    },
+    {
+      "reddit_user": "ledgerwatch",
+      "full_name": "Alexey Akhunov",
+      "description": "The person who notices that theDAO was drained."
+    },
+    {
+      "reddit_user": "LefterisJP",
+      "full_name": "Lefteris Karapetsas",
+      "description": "Developer located in Berlin. University of Tokyo graduate. #emacs user.#ethereumdeveloper. http://lefteris.refu.co ",
+      "github_user": "lefterisjp",
+      "twitter_user": "lefterisjp",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "el33th4xor",
+      "full_name": "Emin Gün Sirer",
+      "description": "Prof @Cornell, co-director @ http://initc3.org , system builder. Passionate about Dist Sys, OSes, NoSQL, and Bitcoin. HyperDex, Weaver, Bitcoin-NG.",
+      "github_user": "el33th4x0r",
+      "twitter_user": "el33th4xor"
+    },
+    {
+      "reddit_user": "zsfelfoldi",
+      "full_name": "Zsolt Felföldi",
+      "description": "ΞTH ÐΞV. Go- Ethereum Light Client",
+      "github_user": "zsfelfoldi",
+      "twitter_user": "zsfelfoldi",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "chriseth",
+      "full_name": " Dr. Christian Reitwiessner",
+      "description": "Ethereum Foundation – Cpp-Ethereum Team Lead and Solidity language.",
+      "github_user": "chriseth",
+      "twitter_user": "ethchris",
+      "labels": "Consensys"
+    },
+    {
+      "reddit_user": "bobsummerwill",
+      "full_name": "Bob Summerwill",
+      "description": "Ethereum developer at Cpp-client.",
+      "github_user": "bobsummerwill",
+      "twitter_user": "bobsummerwill",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "heliumcraft",
+      "full_name": "Iuri Matias",
+      "description": "Embark framework and Ethtrader moderator.",
+      "github_user": "iurimatias",
+      "twitter_user": "iurimatias",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "cryptopascal",
+      "full_name": "Pascal Van Hecke",
+      "description": "On tech, identity & privacy. Senior Consultant",
+      "twitter_user": "PascalVanHecke"
+    },
+    {
+      "reddit_user": "Ledger_Jeff",
+      "full_name": "Jeff Coleman",
+      "description": "Ledgerlabs and State Channels Researcher.",
+      "github_user": "emansipater",
+      "twitter_user": "technocrypto"
+    },
+    {
+      "reddit_user": "jespow",
+      "full_name": "Jesse Powell",
+      "description": "Co-founder & CEO @KrakenFX, Founder @VergeArt, Bitcoin Enthusiast",
+      "github_user": "jespow",
+      "twitter_user": "jespow"
+    },
+    {
+      "reddit_user": "pirapira",
+      "full_name": "Yoichi Hirai",
+      "description": "Formal verification engineer at ΞTH ÐΞV.",
+      "github_user": "pirapira",
+      "twitter_user": "pirapira",
+      "labels": "Ethereum"
+    },
+    {
+      "reddit_user": "newretro",
+      "full_name": "Alex Amsel",
+      "description": "Ownage Dapp",
+      "github_user": "sillytuna",
+      "twitter_user": "alex_amsel",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "etherscan",
+      "full_name": "Matthew Tan",
+      "description": "Etherscan.io - Block Explorer",
+      "github_user": "mtbitcoin",
+      "twitter_user": "etherscan"
+    },
+    {
+      "reddit_user": "peterborah",
+      "full_name": "Peter Borah",
+      "description": "Smart contract developer working with Ownage.io",
+      "github_user": "peterborah",
+      "twitter_user": "peterborah",
+      "labels": "Dapp"
+    },
+    {
+      "reddit_user": "davidburela",
+      "full_name": "David Burela",
+      "description": "Technical Evangelist at Microsoft. Australia",
+      "github_user": "davidburela",
+      "twitter_user": "davidburela"
+    },
+    {
+      "reddit_user": "drcode",
+      "full_name": "Conrad Barski",
+      "description": "Ethereum & Clojure developer based in Evanston/Chicago",
+      "github_user": "drcode",
+      "twitter_user": "lisperati"
+    }
+  ]
+}
