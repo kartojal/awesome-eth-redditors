@@ -19,7 +19,7 @@ Template.list.onRendered(async function() {
                 if (typeof actualFriends !== "undefined") {
                     for (let x = 0; x < actualFriends.length; x++) {
                         f = actualFriends[x];
-                        if ( f["name"] == friendObj.nick) {
+                        if ( f["name"] == friendObj.reddit_user) {
                             friendObj["friend"] = true;
                             break;
                         }
